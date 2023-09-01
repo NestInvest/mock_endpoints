@@ -1,7 +1,7 @@
 _id: req_0bbdc0170c9249c6b3e31652ee3c75f3
 type: Request
-parentId: wrk_e46a6c84215b443fa8c531171e84a160
-modified: 1693592093612
+parentId: fld_cd1d0deb890a4c0da996cbe8962c12bb
+modified: 1693592388208
 created: 1693592084551
 url: localhost:3000/api/properties
 name: allProperties
@@ -13,7 +13,7 @@ headers:
   - name: User-Agent
     value: Insomnia/2023.5.7
 authentication: {}
-metaSortKey: -1691400629810.5
+metaSortKey: -1693592385093
 isPrivate: false
 settingStoreCookies: true
 settingSendCookies: true
