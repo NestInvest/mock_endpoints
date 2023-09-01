@@ -1,9 +1,9 @@
 _id: req_0bbdc0170c9249c6b3e31652ee3c75f3
 type: Request
 parentId: fld_cd1d0deb890a4c0da996cbe8962c12bb
-modified: 1693592388208
+modified: 1693592473660
 created: 1693592084551
-url: localhost:3000/api/properties
+url: "{{ _.localUrl }}/properties"
 name: allProperties
 description: ""
 method: GET
