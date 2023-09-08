@@ -1,0 +1,23 @@
+_id: req_4e5c5a324099485d8dae21dc220b400b
+type: Request
+parentId: fld_d54e9746072c44418b61d2c61a7643ba
+modified: 1694200452245
+created: 1694199408403
+url: "{{ _.jsonServerUrl }}/property/2"
+name: propertyIndividual
+description: ""
+method: GET
+body: {}
+parameters: []
+headers:
+  - name: User-Agent
+    value: Insomnia/2023.5.7
+authentication: {}
+metaSortKey: -1694199682297
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global
