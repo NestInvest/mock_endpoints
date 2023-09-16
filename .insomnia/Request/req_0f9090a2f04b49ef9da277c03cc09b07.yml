@@ -1,10 +1,10 @@
-_id: req_0bbdc0170c9249c6b3e31652ee3c75f3
+_id: req_0f9090a2f04b49ef9da277c03cc09b07
 type: Request
 parentId: fld_cd1d0deb890a4c0da996cbe8962c12bb
-modified: 1694881826090
-created: 1693592084551
-url: "{{ _.localUrl }}/api/properties"
-name: allProperties
+modified: 1694882205700
+created: 1694881776438
+url: "{{ _.localUrl }}/assets/images/1.jpg"
+name: images
 description: ""
 method: GET
 body: {}
@@ -13,7 +13,7 @@ headers:
   - name: User-Agent
     value: Insomnia/2023.5.7
 authentication: {}
-metaSortKey: -1693592385093
+metaSortKey: -1691419467095
 isPrivate: false
 settingStoreCookies: true
 settingSendCookies: true
